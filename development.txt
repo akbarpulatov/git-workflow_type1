@@ -1,3 +1,4 @@
 master begin
 
 feature 1
+feature 2
